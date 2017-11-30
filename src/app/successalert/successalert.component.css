@@ -1,0 +1,7 @@
+.success-alert{
+    border: 4px solid green;
+    text-align: center;
+    color: green;
+    padding: 12px;
+    margin-top: 10px;
+}
